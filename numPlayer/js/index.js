@@ -23,7 +23,8 @@ $web = {
 	//分辨率
 	dpiArray : [30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360, 720, 1080],
 	//
-	ctrlImg : window.location.href.includes('127.0.0.1')?"img/btn.png":"https://i0.hdslb.com/bfs/article/341b3281a9b375857a4f768b170612f51987758799.png",
+	ctrlImg : "img/btn.png",
+	//ctrlImg : window.location.href.includes('127.0.0.1')?"img/btn.png":"https://i0.hdslb.com/bfs/article/341b3281a9b375857a4f768b170612f51987758799.png",
 };
 
 /**
